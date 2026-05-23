@@ -1,0 +1,50 @@
+name: Rohm and Haas
+description: |
+  Rohm and Haas Company was an American specialty chemicals manufacturer
+  founded in 1909 and headquartered in Philadelphia, Pennsylvania. The
+  company produced electronic materials, specialty polymers, adhesives,
+  coatings, paints, and process chemicals. On April 1, 2009, Rohm and Haas
+  was acquired by The Dow Chemical Company for approximately $18.8 billion
+  in cash and stock. The Rohm and Haas brand has since been largely retired
+  and its product lines, technologies, and businesses have been integrated
+  into Dow (now Dow Inc., NYSE: DOW). Some legacy product brands persist
+  under Dow but the standalone company no longer exists.
+image: ""
+tags:
+  - Chemicals
+  - Specialty Chemicals
+  - Materials Science
+  - Defunct
+  - Acquired
+  - Dow
+created: 2026-05-23
+modified: 2026-05-23
+specificationVersion: "0.20"
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+common:
+  - type: Successor
+    url: https://www.dow.com
+  - type: AcquisitionAnnouncement
+    url: https://corporate.dow.com/en-us/news/press-releases/dow-completes-acquisition-of-rohm-and-haas
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rohm_and_Haas
+  - type: ParentCompany
+    url: https://www.dow.com
+status:
+  active: false
+  acquired: true
+  acquiredBy: The Dow Chemical Company
+  acquisitionDate: 2009-04-01
+  acquisitionValueUSD: 18800000000
+  successorEntity: Dow Inc. (NYSE: DOW)
+  successorURL: https://www.dow.com
+  notes: |
+    Rohm and Haas does not operate as a standalone API provider. It has no
+    public developer portal, no documented APIs, no SDKs, and no OpenAPI
+    artifacts. All digital and developer surfaces, where they exist, are
+    operated by Dow under dow.com. This repository exists only to record
+    the historical entity and its acquisition by Dow for the API Evangelist
+    network registry.
