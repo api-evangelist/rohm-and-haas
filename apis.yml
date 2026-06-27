@@ -39,7 +39,7 @@ status:
   acquiredBy: The Dow Chemical Company
   acquisitionDate: 2009-04-01
   acquisitionValueUSD: 18800000000
-  successorEntity: Dow Inc. (NYSE: DOW)
+  successorEntity: "Dow Inc. (NYSE: DOW)"
   successorURL: https://www.dow.com
   notes: |
     Rohm and Haas does not operate as a standalone API provider. It has no
