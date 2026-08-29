@@ -9,6 +9,17 @@ description: |
   and its product lines, technologies, and businesses have been integrated
   into Dow (now Dow Inc., NYSE: DOW). Some legacy product brands persist
   under Dow but the standalone company no longer exists.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
