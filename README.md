@@ -64,48 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rohm and Haas Company was an American specialty chemicals manufacturer founded
-in 1909 and headquartered in Philadelphia, Pennsylvania. Its product portfolio
-spanned electronic materials, specialty polymers, adhesives, sealants,
-coatings, paints, and process chemicals.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-## Status: Defunct / Acquired
+Rohm and Haas Company was an American specialty chemicals manufacturer founded in 1909 and headquartered in Philadelphia, Pennsylvania. The company produced electronic materials, specialty polymers, adhesives, coatings, paints, and process chemicals. On April 1, 2009, Rohm and Haas was acquired by The Dow Chemical Company for approximately $18.8 billion in cash and stock. The Rohm and Haas brand has since been largely retired and its product lines, technologies, and businesses have been integrated into Dow (now Dow Inc., NYSE: DOW). Some legacy product brands persist under Dow but the standalone company no longer exists.
 
-On **April 1, 2009**, Rohm and Haas was acquired by **The Dow Chemical Company**
-for approximately **$18.8 billion** in cash and stock. The Rohm and Haas brand
-has since been largely retired and its businesses, technologies, and product
-lines have been integrated into Dow (now **Dow Inc.**, NYSE: **DOW**). A
-handful of legacy product brands continue to appear under Dow, but the
-standalone company no longer exists.
+**Areas:** Chemicals · Specialty Chemicals · Materials Science · Defunct · Acquired · Dow
 
-- Successor entity: [Dow Inc. — dow.com](https://www.dow.com)
-- Wikipedia: [Rohm and Haas](https://en.wikipedia.org/wiki/Rohm_and_Haas)
+## Rohm and Haas on APIs.io (historical record)
 
-## API surface
+Everything profiled for Rohm and Haas is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rohm-and-haas/](https://apis.io/providers/rohm-and-haas/)** — or go straight to one of the APIs or properties below.
 
-Rohm and Haas does **not** operate as a standalone API provider:
+## API Evangelist rating
 
-- No public developer portal
-- No documented public APIs
-- No SDKs, CLIs, or OpenAPI artifacts
-- No status page, changelog, or developer blog
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-All digital and developer surfaces, where they exist, are operated by Dow under
-[dow.com](https://www.dow.com). For any API-related work, refer to the Dow
-record in the API Evangelist network.
+## How this profile is made
 
-## Why this repository exists
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-This repository exists solely to record the historical entity within the API
-Evangelist network registry and to document the acquisition by Dow. The
-pipeline produces no artifacts (OpenAPI, AsyncAPI, schemas, capabilities,
-rules, plans, rate limits, FinOps) because no API surface exists to describe.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rohm and Haas: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Files
+## Open an issue
 
-- `apis.yml` — minimal APIs.yml record documenting the defunct status and
-  the Dow acquisition.
-
-## Related
-
-- [Dow — api-evangelist/dow](https://github.com/api-evangelist/dow)
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rohm-and-haas/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
